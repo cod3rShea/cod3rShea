@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @cod3rShea
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-cod3rShea/cod3rShea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in coding and brewing craft beer
+- 🌱 I’m currently learning to be a Father
+- 💞️ I’m looking to collaborate on 🤷
+- 📫 How to reach me http://seansheadev.com/contact/
